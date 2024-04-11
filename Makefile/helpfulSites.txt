@@ -1,0 +1,2 @@
+https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+https://stackoverflow.com/questions/21548464/how-to-write-a-makefile-to-compile-a-simple-c-program

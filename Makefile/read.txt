@@ -1,0 +1,4 @@
+This folder teaches about makefiles through a basic example
+After reviewing example you should:
+    Understand makefile variables
+    Understand makefile commands
