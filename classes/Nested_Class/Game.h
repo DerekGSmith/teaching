@@ -12,7 +12,7 @@ using namespace std;
  * This class represents a player for a game that will contain the data needed
  * for a player
  *
- * @invariant [playerList size will be greater than or equal to 1]
+ * @invariant [Any player in playerList will not have negative points]
  *
  */
 class Game {
