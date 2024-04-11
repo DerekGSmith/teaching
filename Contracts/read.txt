@@ -1,0 +1,7 @@
+This contract example file will teach about contracts.
+Contracts are standard for Java but they are comments meaning they work with any language
+
+DO NOT HAVE FUCKING INPUT VALIDATION IN A FUNCTION THAT YOU HAVE SETUP CONTRACTS FOR
+    Wasting time
+    Wasting space
+    Wasting processing power

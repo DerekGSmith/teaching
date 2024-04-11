@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/8537018/what-does-contract-of-a-class-mean
+https://john.cs.olemiss.edu/~hcc/softArch/notes/iContract/OW_Berlin99_web.pdf
