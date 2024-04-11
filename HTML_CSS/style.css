@@ -1,0 +1,53 @@
+@keyframes rainbowFlow {
+  0% {
+    color: red;
+  }
+  14% {
+    color: orange;
+  }
+  28% {
+    color: yellow;
+  }
+  42% {
+    color: green;
+  }
+  57% {
+    color: blue;
+  }
+  71% {
+    color: indigo;
+  }
+  85% {
+    color: violet;
+  }
+  100% {
+    color: red;
+  }
+}
+
+body {
+  font-size: 18px;
+  color: blueviolet;
+  font-weight: bolder;
+}
+
+.bodyText {
+  color: red;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p.bodyText {
+  font-size: 25px;
+}
+
+div.bodyText {
+  animation: rainbowFlow 8s linear infinite;
+}
+
+#htmlPara {
+  color: cadetblue;
+}
+
+#cssPara {
+  color: brown;
+}
