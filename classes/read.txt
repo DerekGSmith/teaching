@@ -1,42 +1,7 @@
-/*
-Classes
-    Abstraction
-    Encapsulation
-    Inheritance
-    Polymorphism (Not teaching this)
-    Object Oriented Programming
+Read class.txt (watch the three videos in it)
 
-Important Terms
+Understand Nested_Class
 
-Creating a Class
-    Classes are objects consisting of a name, access specifiers,
-    and methods and members that fall under access specifiers.
+Understand Templates
 
-    Access Specifiers:
-        protected: Same as private but classes that inherit the class can access
-        private: Only accessible inside of the class
-        public: Accessible anywhere
-
-    Methods:
-        Getters - Getters will get private variables.
-        Setters - Setters will set private variables.
-        Other functions
-
-    Members:
-        Look at code for examples.
-
-Inheritance
-    Inheritance is when one class 'inherits' from another
-    A class that is inherited from is called a parent
-    A class that inherits a class is called a child or a derived class
-    parent
-      |
-     child
-
-    *very simple concept but struggle often comes from knowing
-    *what an inherited class has access to
-    Polymorphism
-        This can be a difficult concept to understand
-        Polymorphism is when multiple classes have the same kind of function but
-        different ways of doing it. 
-*/
+Run both with their makefiles
