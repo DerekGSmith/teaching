@@ -1,0 +1,8 @@
+Model - View - Controller is a programming common practice 
+that guides web development
+
+Model represents the backend code
+Controller is code that communicates between the Model and the View
+The view is the interface that the user will see
+
+# Examples are in the example_project folder
