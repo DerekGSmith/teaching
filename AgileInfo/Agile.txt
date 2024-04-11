@@ -1,0 +1,35 @@
+Agile is a guided method for software development
+
+Software Development before Agile consisted of a very one track method  | Plan -> Code -> Test -> Deploy -> Maintain    (PDF 3 Page 4)
+The issue with this is that plans need to change. Deadlines need to be moved, features need to be added or changed.     
+
+Agile deals with this by having short intervals of time where the entire process is done.                               (PDF 3 Page 7)
+Each interval of time has several teams working on different features. 
+Scrum Masters are members of each team that will handle impediments and communicate between teams
+
+
+---Planning Start--
+Figure out requirements for the product development through Epics and Stories
+Create epics (Large points about the product)
+Create stories based on epics ()
+Create tasks based on stories ()
+
+Stories and Epics should be in a | As a ___, I want to ____ , so that ___
+Tasks should say what needs to be done
+---Planning End---
+
+---Development Start---
+Each day have a standup meeting where each developer will stand up and answer three questions
+What are you doing today? What did you do yesterday? What are your problems?
+(More stuff happens here but is not as important)
+---Development End---
+
+---Review Start---
+Review is about preparing for the next sprint. 
+Updating the product backlog (What still needs to be done)
+---Review End---
+
+---Retrospective Start---
+Figure out what went right and what went wrong in the sprint
+General team building stuff
+---Retrospective End---

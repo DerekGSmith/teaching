@@ -1,0 +1,9 @@
+General idea of the topic is all that is needed for this. But if you wanted to learn more
+it is an interesting topic and the materials are there if you wanted to.
+
+Read Agile.txt to learn about Agile
+ClemsonAgile contains Clemson class material on the topic
+
+helpfulSites contains the agile principles. 
+DO NOT MEMORIZE PRINCIPLES. If you know agile you know the principles.
+If you do not understand any of the principles then you should study agile more
